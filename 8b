@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> Program 8b</title>
+ <style>
+ body {
+ font-family: Serif, Garamond;
+ }
+ 
+ .compact-list {
+ background-color: pink;
+ }
+ 
+ .midsize-list {
+ background-color: blue;
+ }
+ 
+ .sports-list {
+ background-color: red;
+ }
+ </style>
+</head>
+<body>
+ <h1>Nested Ordered Lists of Cars</h1>
+ 
+ <ol type="I">
+ <li>
+ <strong>Compact</strong>
+ <ol type="A" class="compact-list">
+ <li>
+ <strong>Two Door</strong>
+ <ol type="1">
+ <li>Honda Civic</li>
+ <li>Toyota Corolla</li>
+ <li>Ford Focus</li>
+ </ol>
+ </li>
+ <li>
+ <strong>Four Door</strong>
+ <ol type="1">
+ <li>Hyundai Elantra</li>
+ <li>Nissan Sentra</li>
+ <li>Chevrolet Cruze</li>
+ </ol>
+ </li>
+ </ol>
+ </li>
+ <li>
+ <strong>Midsize</strong>
+ <ol type="A" class="midsize-list">
+ <li>
+ <strong>Two Door</strong>
+ <ol type="1">
+ <li>Honda Accord</li>
+ <li>Toyota Camry</li>
+ <li>Nissan Altima</li>
+ </ol>
+ </li>
+ <li>
+ <strong>Four Door</strong>
+ <ol type="1">
+ <li>Ford Fusion</li>
+ <li>Chevrolet Malibu</li>
+ <li>Hyundai Sonata</li>
+ </ol>
+ </li>
+ </ol>
+ </li>
+ <li>
+ <strong>Sports</strong>
+ <ol type="A" class="sports-list">
+ <li>
+ <strong>Coupe</strong>
+ <ol type="1">
+ <li>Ford Mustang</li>
+ <li>Chevrolet Camaro</li>
+ <li>Dodge Challenger</li>
+ </ol>
+ </li>
+ <li>
+ <strong>Convertible</strong>
+ <ol type="1">
+ <li>Mazda MX-5 Miata</li>
+ <li>BMW Z4</li>
+ <li>Audi TT Roadster</li>
+ </ol>
+ </li>
+ </ol>
+ </li>
+ </ol>
+ 
+</body>
+</html>
