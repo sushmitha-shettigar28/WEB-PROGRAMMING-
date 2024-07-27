@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+<title>Program 13b</title>
+<style type="text/css">
+.layer1style
+{
+border:solid thick black;
+padding:1em;
+width:300px;
+background-color:green;
+position:absolute;
+top:0px;
+left:0px;
+z-index:0;
+}
+.layer2style
+{
+border:solid thick red;
+padding:1em;
+width:300px;
+background-color:blue;
+position:absolute;
+top:30px;
+left:90px;
+z-index:0;
+}
+.layer3style
+{
+border:solid thick green;
+
+padding:1em;
+width:300px;
+background-color:purple;
+position:absolute;
+top:50px;
+left:180px;
+z-index:0;
+}
+</style>
+<script type="text/javascript">
+var topLayer="layer3";
+var origPos;
+function mover(toTop,pos)
+{
+var newTop=document.getElementById(toTop).style;
+newTop.zIndex="10";
+topLayer=document.getElementById(toTop).id;
+origPos=pos;
+}
+function moveBack()
+{
+var oldTop=document.getElementById(topLayer).style;
+oldTop.zIndex=origPos;
+}
+</script>
+</head>
+<body>
+<h2 style="text-align:center;color:red"> The stacking of Paragraphs </h2>
+<div style="z-index:1;" class="layer1style" id="layer1"
+onmouseover="mover('layer1','1')" onmouseout="moveBack()">
+<p>hgudguie shghdgji gjshgjs fhshgkgi hshghjgjod 
+kjgjdgjdj gnkgjkjh vvjkgjkgjk gkhdkgjgj gnkkgnkdgjk
+gndgjjgjd gnkngkdgjk vnmdgnnkgnk gndngkndgjkd ggngngndn
+gndngndgn gndngndkh dgndnmkmdgh gnndgndh gnngnddnkknd</p>
+</div>
+<div style="z-index:2;" class="layer2style" id="layer2"
+onmouseover="mover('layer2','2')" onmouseout="moveBack()">
+<p>bdngdjkdgjkd ngndgmdkhkk gbjdnnhmf gndknhdhld gndndhdhm
+gjdgjdhdh gbjgdkghdkhg dgbgjndjgdj gndngkdhhhgd gbbdgjdgnd
+ngndndgj gndndjh gkdkhnkdh gndkhnkdhnk gndnhdnhn gndndnk
+hndnhkdhnkdh gndknnkhddn gdnkndmhm gndhnnhnh nmdhmndnh</p>
+</div>
+<div style="z-index:3;" class="layer3style" id="layer3"
+onmouseover="mover('layer3','3')" onmouseout="moveBack()">
+<p>jbjjdhjhd gbdjdkjhd ghjgjsgjakflaflzq fsguutiwoorok
+agfarywuitijhji fbshugiueyior ffbdhgriyior bhjgrjjkktj
+jbfhdghrhjd gndghdjjkt gndhkjkj jhhjdgjdjgj jghdjgjdd
+gjhghdhhj gdkhkfhjh ghkdhjkjh gkdkhfjh dkgkdfhjfjmngnm</p>
+</div>
+</body>
+</html>
