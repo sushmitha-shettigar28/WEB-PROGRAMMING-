@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Program 8a</title>
+ <style>
+ body {
+ font-family: Serif, Georgia;
+ }
+ 
+ p.p1 {
+ margin-left: 20px;
+ margin-right: 20px;
+ background-color: pink;
+ color: blue;
+ }
+ 
+ p.p2 {
+ margin-left: 30px;
+ margin-right: 30px;
+ background-color: black;
+ color: yellow;
+ }
+ 
+ p.p3 {
+ text-indent: 1cm;
+ background-color: green;
+ color: white;
+ }
+ </style>
+</head>
+<body>
+ <h1>poems</h1>
+ 
+ <p class="p1">Paragraph 1: jhhdhghjhh fskghhs fbgshgdh hfhjdhdh gbhjhgh
+hghdhg bghghg gbghgh bghghg bgghghg ghhgjgj hjgjgjg bjggjhj gjsgjjggggn</p>
+ <p class="p2">Paragraph 2: jhghdghg gbsjgih dbhrwry uwuuw fbbvhghjg fhh
+jjhhhr fbhei hrhu ngmkgkg jrrriei bhggj jjir jjghfhf hjrjjjtg rtjjtjtjt</p>
+ <p class="p3">Paragraph 3: jhfhgg fbhghghg bgbghggh bbgghg bbgngnng gbg
+bnng gbgng gngnng gnnnnh nnnhnh gnnhmhmh fnnngnhn gnnggmg nnnnhnh nnbnn</p>
+ <p class="p1">Paragraph 4: bvhvxvbv vbnnvgjg bxvxbxbbbggngng gbbggbn gbbg
+bxbxbxb vbxbbgbg gbbgg gbgbg gnnghgmg bggngjgjg gngn ngnnhn ngnnnhnnhjjg</p>
+</body>
+</html>
