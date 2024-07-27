@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+<title> Program2b</title>
+</head>
+<body>
+<h3>(i) Demonstration of Unordered List</h3>
+<p> Fruits</p>
+<ul>
+<li> Banana</li>
+<li> Apple </li>
+</ul>
+<h3>(ii) Demonstration of Ordered List</h3>
+<p> Vegetables</p>
+<ol>
+<li> Brinjal </li>
+<li> Coconut</li>
+</ol>
+<h3>(iii) Demonstration of Definition List</h3>
+<p> Description of skin care routine</p>
+<dl>
+<dt>Cleanser</dt>
+<dd>
+shgfhjshjg shfhjghjsg hgjgjdgh
+hbgjdgjdgjd gjgjkdkjgdkj jgjdgj.
+</dd>
+<dt>Moisturiser</dt>
+<dd>
+hhxvvhxvhj hvjjxj vxjgjgjgjgjjhghd
+ghghhghj vjghdgj vshghsg fjsgjgjjg.
+</dd>
+</dl>
+</body>
+</html>
