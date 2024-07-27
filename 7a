@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Program 7a</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ }
+ 
+ img {
+ float: left;
+ margin-right: 10px;
+ }
+ </style>
+</head>
+<body>
+ <h1>Save nature</h1>
+ 
+ <p>hjvhjdhg ghdhghjdgji ghgjdjhdk gghdhgjd hjhgdhghj sghghhjsh ghhjgjh
+ghgshgs vbnghjgh ghhjghjdg ayutystujkw aYHAJKFSJKG FBHSHGSEJ hfdhudfuidiog 
+gjhjghsghse gbhshghsegh bddhdhg hdghesitgse znvjgsdkj fhshgjgjdg djgjgdjg
+ghhjgjsdgjk vdjghdghdh bjgdjgdj njgdnd gnngdngnd njnhnkhnk hnnhnkhn dnk.</p>
+ 
+ <img src="save nature.jpg" alt="save nature" width="300" height="300" />
+ 
+ <p>hughdgdiu ghdhgsg dhghgjs bgjsdjgdjk gdjgdjgj gbbgdjgjd fbsbgb
+ssjshgsehgh ghsdhgsehgh ghsdhugsejig sjghsere hgesghejh fheghseggeh
+ddggh ghehgeuitied fgsytooeyo hgueiiyieth fhsafieri ssghthejej bteby
+hgeurgurty ghuhjy guetuieiy thteyj ehyhyhy hehyehyj theutiej jgj.</p>
+ 
+ <img src="nature.jpg" alt="nature" width="300" height="300" />
+ 
+ <p>hsfhdghdgh ghdghdhu dghghdhg ghdhgdsu fshgshu bsdghsdgj vdbghdg
+gdkjgdg ghdhgdg ghghd gdbghghd gjdghgd dhghjdghd fbshgshd gbghhj bg
+dhghsdghh gbdgjdg gjdjgdh ndfhd gndjgjsd dfjghghd djghjdgh ghghdh dghhdgh
+ghdghdhg djghshs hdghhdg ghhsghd sjdghdh sbgdgd gsbghdjg sbghghg sbbgshg</p>
+ 
+</body>
+</html>
