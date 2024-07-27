@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Program 7b</title>
+ <style>
+ body {
+ font-family: Serif, Times New Roman;
+ }
+ 
+ #embedded-box {
+ float: left;
+ width: 150px;
+ background-color: #4D95E7;
+ padding: 10px;
+ font-size: 12px;
+ font-style: italic;
+ }
+ </style>
+</head>
+<body>
+ <h1>save water</h1>
+ 
+ <div id="embedded-box">
+ <p>water is a precious it is healty hjjhhg sbhgjhgh bvjgh
+vbhbbh bbgbh bvbhgbb hbghdgh bghhdg bgggg bgngngngngnnhh</p>
+ </div>
+ 
+ <p>hshghghg fhghdghd hsgfhgsghsheg fhsdhsgh gshfshgh sfjjkdgjdk
+gbghjdsghdgs bhdhjghshg bhdghdghhg hghjdghdgh dhghdgds ghsfhsdgh 
+ghgsghesg bvgfush shgwghuy sbfbsfh abjsfjs bfsghsh bfbsghsg bfbs
+hjsfhsghgs bshfhghg fbsfsbg fbsfhsh bsgbgh bhsfbgb hsgbgbg bfbgb</p>
+ 
+ <p>vbgsgh xvvgsghsh svsgfsg bcvsghsg zvzsgshg gsgsg ssgsghjg bb
+bghdgh bghghg dbghdghg bghghg hhghg ghghg hghg hghhg bghgh gbgg
+svhghgh jhghgh bghgh fgfhjnd bhjshsgh sbhhghg gfghtjf bfhfhfh 
+gsfsfg hfhfhr sbfhf hdhhsghg bsghsg hghf hshggh fhhfhf bfbfg</p>
+ 
+ <p>ghhggf fgfagsf ssgfgag shfsgfg sghfhs sasggf ssghhg sbfgs
+sbhsgsg sghffs vsfsggh sbghg gghgh hfhghgh shhgg bghghg fhhghg
+ggghg gggh ghghhggfghg bgghgh bghghgjhg fhbdhg ghhghg fhfhgh
+hghggh ghghg bbhghg gbghg hghghg ghgggh gghhghg gghhghg bbgbg.</p>
+ </body>
+</html>
