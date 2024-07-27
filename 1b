@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>Program1b</title>
+</head>
+<body>
+<h4> <i>(i) This section is demonstration of Various headings</i></h4>
+<h1> fruits</h1>
+<h2>pomegranate</h2>
+<h3>orange</h3>
+<h4>kivi</h4>
+<h5>apple</h5>
+<h6>banana</h6>
+<h4> <i>(ii) This section is demonstration of sup and sub tag for the given 
+equation</i></h4>
+<h2>
+f(x)= 
+a<sub>4</sub>x<sup>4</sup>+a<sub>3</sub>x<sup>3</sup>+a<sub>2</sub>x<
+sup>2</sup>a<sub>1</sub>x+a<sub>0</sub>
+</h2>
+</code>
+<h4> <i>(iii) This section is demonstration of Horizontal Rules</i></h4>
+<p> hgjdgjdij gsgdjiy sjtiigi jgjdiy jdgjdgkdkdky jgjskgkg gjjgkgks jsjjsjtj
+gggkgkd gjdjhdkhkd gjdkgdkhkd jdkhdkhkd dkhdkh <hr/> jghdghdhg gjjdgdgk jdjgjdgjdgj jdgdgdg
+ngndgdg gjdgkdkgd jgjdgdgdd<hr/>hghghdg gjgjgdg gjdjgdjgjd gjdjgdjgjdgjjgkgdg<hr/></p>
+</body>
+</html>
