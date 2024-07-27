@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+<title> Program2a</title>
+</head>
+<body>
+<h3>(i) Demonstration of Adding an Image</h3>
+<br/>
+<br/>
+<center> <img src="Tiger.jpg" height= "400" width="400" alt="Image of Tiger"/></center>
+<br/>
+<br/>
+<h3> (ii) Demonstration of Hyperlink for image</h3>
+<br/>
+<center><p> Click on the image to know the description of the image</p></center>
+<center><a href="2aa.html"><img src="animals.jpg" height= "250" width="250" 
+alt="Image of Animals"/></a></center>
+</body>
+</html>
