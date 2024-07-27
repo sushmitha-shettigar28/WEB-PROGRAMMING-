@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+ <title>program3a</title>
+</head>
+<body>
+ <h1>MENU LIST</h1>
+ <table border = "border">
+ <caption></caption>
+<tr>
+<th colspan="5">MENU LIST </th>
+</tr>
+ <tr>
+ <th rowspan="6">Foods</th>
+ <th colspan="4">Meals</th>
+ </tr>
+ <tr>
+ <th></th>
+ <th scope="col">Breakfast</th>
+ <th scope="col">Lunch</th>
+ <th scope="col">Dinner</th>
+ </tr>
+ <tr>
+ <th scope="row">Bread</th>
+ <td>25</td>
+ <td>50</td>
+ <td>15</td>
+ </tr>
+ <tr>
+ <th scope="row">Main Course</th>
+ <td>200</td>
+ <td>250</td>
+ <td>500</td>
+ </tr>
+ <tr>
+ <th scope="row">Vegetable</th>
+ <td>220</td>
+ <td>300</td>
+ <td>420</td>
+ </tr>
+ <tr>
+ <th scope="row">Dessert</th>
+ <td>100</td>
+ <td>120</td>
+ <td>190</td>
+ </tr>
+ </table>
+</body>
+</html>
